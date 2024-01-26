@@ -1,0 +1,5 @@
+Title : kulli 
+
+Movie duration : .1 sec
+
+Year : 30
